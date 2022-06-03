@@ -40,14 +40,14 @@
 ![]
 
 ---
-4)- Laplacian Filter in spatial domain with histogram equalization
-
+4)Laplacian Filter in spatial domain with histogram equalization
 ---
-![]
+![](https://github.com/Sandra-Essa/Image_Filtering/blob/main/Images/Laplacian%20Filter.png)
 
 ---
 5) Plot RGB image - using Combo Box
 ---
+
 ![](https://github.com/Sandra-Essa/Image_Filtering/blob/main/Images/RGB.png)
 
 ---
