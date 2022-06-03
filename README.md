@@ -22,28 +22,34 @@
 
 ### Demos
 ---
-1)-low pass
+1)-High Pass Filter in both spatial and frequency domains with histogram equalization
 
 ---
 ![]
 
 ---
-2)- median
+2)-Low Pass Filter in both spatial and frequency domains with histogram equalization
 
 ---
 ![]
 
 ---
-2)- high pass
+3)-Median Filter in spatial domain with histogram equalization
 
 ---
 ![]
 
 ---
-2)- la placian
+4)- Laplacian Filter in spatial domain with histogram equalization
 
 ---
 ![]
+
+---
+5)- Plot RGB image - using Combo Box
+
+---
+![](https://github.com/Sandra-Essa/Image_Filtering/blob/main/Images/RGB.png)
 
 ---
 ### Tools
