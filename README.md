@@ -46,8 +46,7 @@
 ![]
 
 ---
-5)- Plot RGB image - using Combo Box
-
+5)Plot RGB image - using Combo Box
 ---
 ![](https://github.com/Sandra-Essa/Image_Filtering/blob/main/Images/RGB.png)
 
